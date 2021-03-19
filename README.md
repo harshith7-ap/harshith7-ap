@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harshith7-ap
-- 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...B-tecg
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning B-tech
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
